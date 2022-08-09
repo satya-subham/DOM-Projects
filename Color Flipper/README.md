@@ -1,1 +1,1 @@
-<img src="color flipper"/>
+<img src="color flipper.png"/>
