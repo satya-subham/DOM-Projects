@@ -1,0 +1,43 @@
+body{
+    background-color: aqua;
+}
+.container{
+    width: 400px;
+    height: auto;
+    margin: 3% auto;
+    text-align: center;
+    font-size: large
+}
+.underline{
+    width: 50px;
+    height: 3px;
+    background-color: blueviolet;
+    border-radius: 2px;
+    margin-left: 180px;
+    
+}
+.review{
+    width: 400px;
+    height: auto;
+    background-color: azure;
+    border-radius: 10px;
+    box-shadow: 5px 7px 8px 0px rgba(163,138,138,0.75);
+    position: absolute;
+    margin: 30px;
+}
+.image-container{
+    margin: 20px;
+    
+}
+.image-container img{
+    border-radius: 50%;
+}
+.review #info{
+    text-align: center;
+    color: crimson;
+}
+button{
+    background: none;
+    border: none;
+    color: cornflowerblue;
+}
