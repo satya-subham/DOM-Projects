@@ -1,0 +1,24 @@
+.nav-center {
+  width: 98vw;
+  height: 50px;
+  background-color: cadetblue;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  box-shadow: 10px 7px 5px -2px rgba(0, 0, 0, 0.74);
+}
+.links{
+    display: inline;
+}
+.links a {
+  text-decoration: none;
+  padding: 20px;
+}
+.icons{
+    display: block;
+}
+.icons a {
+  padding: 10px;
+}
